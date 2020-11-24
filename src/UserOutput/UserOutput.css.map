@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,MAAM,EAAE,gBAAgB;EACxB,gBAAgB,EAAE,OAAO;EACzB,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,SAAS;EACjB,KAAK,EAAE,GAAG;EACV,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "UserOutput.scss"
+    ],
+    "names": [],
+    "file": "UserOutput.css"
+}
